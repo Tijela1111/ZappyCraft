@@ -1,0 +1,8 @@
+name: ZappyCraft
+version: 1.0.0
+author: Tijela_Quebrada
+main: xyz.project.main.Main
+
+commands:
+  groupset:
+  fly:
